@@ -191,7 +191,7 @@ To enable global voice search, an additional app must be installed alongside Sma
 2. Uninstall the official YouTube app using root (`adb shell pm uninstall com.google.android.youtube.tv`)
 3. Download and install the ATV Bridge SmartTube app: https://kutt.to/stn_bridge_atv (e.g. via _Downloader by AFTVnews_)
 
-
+<!-- 
 ## Donation
 
 If you want to support my developments you are welcome to buy me a cup of coffee :)
@@ -209,7 +209,7 @@ If you want to support my developments you are welcome to buy me a cup of coffee
 - **USDT (ERC20)**: 0xe455e21a085ae195a097cd4f456051a9916a5064   
 - **TON**: UQAc9zgnnzwS8yb5wxAu5CB0RddmjPBjWI-n46oQ7XfCQrgI  
 - **XMR**: 48QsMjqfkeW54vkgKyRnjodtYxdmLk6HXfTWPSZoaFPEDpoHDwFUciGCe1QC9VAeGrgGw4PKNAksX9RW7myFqYJQDN5cHGT    
-
+--->
 
 ## Support
 
